@@ -1,0 +1,22 @@
+
+.pilih{
+    
+    color: deeppink;
+    text-align: left;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+.link{
+    color:skyblue;
+    font-size: 20pt;
+}
+
+img{
+    width: 240px;
+    height: 240px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
